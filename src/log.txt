@@ -1,0 +1,48 @@
+commit 317e70f20fd254a565a1ee9155f5749351f35e2c
+Author: Bonani Tshwane <tshbon035@nightmare.cs.uct.ac.za>
+Date:   Sun Mar 3 19:08:02 2024 +0000
+
+    I created a Makefile to automate compilation process.
+
+commit 429f27c5277f5a2f5dc330d6fa14cc3b59a22629
+Author: Bonani Tshwane <tshbon035@nightmare.cs.uct.ac.za>
+Date:   Sun Mar 3 19:06:18 2024 +0000
+
+    Added a lot of changes here on GenericsKbBSTApp, it makes use of the Generic object and all methods are noe full functional, it uses a Binary Search Tree.
+
+commit b070bdff0912736933ba873be00f5e07cef8239f
+Author: Bonani Tshwane <tshbon035@nightmare.cs.uct.ac.za>
+Date:   Sun Mar 3 19:00:18 2024 +0000
+
+    Made some changes on the updateArray method and both the search methods.
+
+commit 794ef63f4e71f27b22ca63f1da893dd2c097a6fb
+Author: Bonani Tshwane <tshbon035@nightmare.cs.uct.ac.za>
+Date:   Sun Mar 3 18:47:05 2024 +0000
+
+    I created the Generics class that has 3 instancs, namely, term, statement and confidence score(cfScore), this class is used by the applications.
+
+commit 7b9005e817f632585a6e29abc1aa0d3cac2403dd
+Author: Bonani Tshwane <tshbon035@nightmare.cs.uct.ac.za>
+Date:   Thu Feb 29 02:18:09 2024 +0000
+
+    Started working on the Binary Search Tree App.
+
+commit 06afa99315602f4740c31c5c8ed765e9e693fc88
+Author: Bonani Tshwane <tshbon035@nightmare.cs.uct.ac.za>
+Date:   Tue Feb 27 11:07:35 2024 +0000
+
+    Added the main method as an inner class to GenericsKbArrayApp.java instead of having it separately, then made
+changes on the methods.
+
+commit 8e22b8acae0bf6c7dc0debfaa8f38edcd864bf67
+Author: Bonani Tshwane <tshbon035@nightmare.cs.uct.ac.za>
+Date:   Mon Feb 26 22:14:45 2024 +0000
+
+    GenericsKbArrayApp unchanged.
+
+commit 15f616928c62116a5c3be69e75f6a25ad568bdad
+Author: Bonani Tshwane <tshbon035@nightmare.cs.uct.ac.za>
+Date:   Mon Feb 26 22:05:09 2024 +0000
+
+    First commit.

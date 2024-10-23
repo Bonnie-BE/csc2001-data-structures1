@@ -1,0 +1,43 @@
+Welcome to the Knowledge Base Management Program
+
+Introduction:
+This program allows you to manage a knowledge base stored in a 2D array. You can load data from a file, update statements, and search for terms or terms with statements.
+
+Usage Instructions:
+1. Loading Knowledge Base:
+   - Enter '1' from the main menu.
+   - Provide the filename when prompted.
+   - Ensure the file is formatted correctly, with each line containing a term, statement, and confidence score separated by tabs.
+
+2. Updating Statements:
+   - Enter '2' from the main menu.
+   - Provide the term, statement, and confidence score when prompted.
+   - The program will update the statement in the knowledge base if the confidence score is higher than the existing one.
+
+3. Searching for Terms:
+   - Enter '3' from the main menu.
+   - Provide the term you want to search for.
+   - The program will display the corresponding statement and confidence score if found.
+
+4. Searching for Terms with Statements:
+   - Enter '4' from the main menu.
+   - Provide both the term and statement you want to search for.
+   - The program will display the confidence score if the term and statement match an entry in the knowledge base.
+
+5. Exiting the Program:
+   - Enter '5' from the main menu to quit the program.
+
+Walkthrough:
+1. Load a knowledge base from a file.
+2. Update a statement with a higher confidence score.
+3. Search for terms in the knowledge base.
+4. Search for terms with specific statements.
+5. Exit the program.
+
+Tips and Troubleshooting:
+- Make sure to provide accurate filenames and input data.
+- Double-check the confidence scores when updating statements.
+- Contact us at support@example.com for assistance.
+
+Thank you for using our program!
+
